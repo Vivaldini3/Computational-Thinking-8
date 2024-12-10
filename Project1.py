@@ -5,7 +5,7 @@ from codesters import StageClass
 stage = StageClass()
 ###############################################
 
-stage.set_background ("soccer field")
+stage.set_background ("soccer field 2 (1)")
 
 
 
