@@ -8,7 +8,7 @@ stage = StageClass()
 
 stage.set_background("summer")
 mySprite = codesters.Sprite("78215886.0.jpg")
-mySprite.say("I am Maldini!")
+mySprite.say("I am Maldini!",-1,"blue")
 
 
 
