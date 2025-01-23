@@ -79,10 +79,10 @@ percent_sports = sports_points/10
 percent_board = board_points/10
 if sports_points > board_points:
     print ("You are a Sports person by")
-    print(percent_sports)
+    print(percent_sports/0.01)
 if board_points > sports_points:
     print ("You are a board game person by")
-    print(percent_board)
+    print(percent_board/0.01)
 elif sports_points == board_points:
     print ("You are a 50/50 mix!")
     
